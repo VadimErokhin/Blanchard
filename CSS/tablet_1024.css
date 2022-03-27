@@ -100,7 +100,7 @@
     display: block;
     background-color: transparent;
     border: none;
-    background-image: url(/img/header_loupe.png);
+    background-image: url(../img/header_loupe.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 31px;

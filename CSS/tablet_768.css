@@ -11,7 +11,7 @@
   /* Header */
 
   .header__loupe {
-    background-image: url(/img/header_louoe_768.png);
+    background-image: url(../img/header_louoe_768.png);
     width: 28px;
     height: 28px;
   }
