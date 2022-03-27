@@ -1,0 +1,310 @@
+@media(max-width:800px) {
+  .container {
+    padding: 0 48px;
+  }
+
+  .title {
+    font-size: 48px;
+  }
+
+
+  /* Header */
+
+  .header__loupe {
+    background-image: url(/img/header_louoe_768.png);
+    width: 28px;
+    height: 28px;
+  }
+
+  .logo {
+    margin-left: -5px;
+  }
+
+  .input__wrapper--expanded {
+    background: #000;
+    padding: 10px 0;
+    width: 100%;
+  }
+
+  .header__nav-input-search {
+    background: #000;
+  }
+
+  .header__cross {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 23px;
+    width: 29px;
+    height: 29px;
+  }
+
+  .overlay-x {
+    display: block;
+  }
+
+  .burger__tablet {
+    width: 36px;
+    height: 28px;
+  }
+
+  /* Hero */
+
+  .hero__info-text {
+    max-width: 100%;
+  }
+
+  /* Adout Us */
+
+  .about-us__text {
+    max-width: 99%;
+  }
+
+  .title-black {
+    margin-bottom: 17px;
+  }
+
+  /* Gallery */
+
+  .gallery {
+    padding-top: 77px;
+    padding-bottom: 346px;
+  }
+
+  .gallery__title {
+    margin-bottom: 6px;
+  }
+
+  .choices[data-type*=select-one] .choices__inner {
+    margin-bottom: 6.5px;
+  }
+
+  .gallery__left-column-text {
+    display: none;
+  }
+
+  .gallery__wrapper {
+    flex-wrap: wrap;
+  }
+
+  .gallery__text__756 {
+    display: block;
+  }
+
+  .gallery__left-column {
+    max-width: 284px;
+  }
+
+  .choices {
+    margin-bottom: 19px !important;
+  }
+
+  .gallery__right-column {
+    height: 684px;
+  } 
+
+  .choices__list--dropdown {
+    display: none;
+    position: initial;
+  }
+
+  .choices__list--dropdown.is-active {
+    display: block;
+    background-color: rgba(0,0,0,0.9) !important;
+  }
+
+  .choices[data-type*=select-one]:before {
+    top: 22px;
+  }
+
+  /* Catolog */
+
+  .catalog {
+    padding-top: 80px;
+    padding-bottom: 71px;  
+  }
+
+  .catalog__wrapper {
+    flex-wrap: wrap;
+  }
+
+  .accordion-left-wrapper {
+    margin: 0;
+    padding: 0;
+    order: 2;
+    max-width: 671px;
+  }
+
+  .catalog__accordion {
+    margin-bottom: 50px;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .catalog__item:not(:last-child) {
+    margin-right: 37px;
+  }
+
+  .catalog__header-text {
+    margin-bottom: 22px;
+  }
+
+  .catalog__picture {
+    margin-bottom: 25px;
+  }
+
+  .artist-description {
+    font-size: 16px;
+  }
+
+  .catalog__picture {
+    margin-bottom: 28px;
+  }
+
+  .catalog__empty-left {
+    width: 315px;
+    height: 189px;
+  }
+
+  /* Events */
+
+  .events {
+    padding-bottom: 80px;
+  }
+
+  .events__item:not(:nth-child(-n + 2)) {
+    display: none;
+    }
+
+  .events__item {
+    width: calc((100% - 14px*2) / 2);
+  }
+
+  .article__subtitile {
+    max-width: 96%;
+  }
+
+  .article__content {
+    padding: 14px 20px 41px 36px;
+    min-height: 487px;
+  }
+
+  .events__list {
+    margin-bottom: 34px;
+  }
+
+  .events__list {
+    flex-wrap: wrap;
+  }
+
+  .article__data {
+    padding-bottom: 4px;
+  }
+
+  .swiper-publication {
+    margin: 0 23px;
+  }
+
+
+
+  /* Publication */
+
+  .publication {
+    padding-bottom: 72px;
+  }
+
+  .publication__wrapper {
+    flex-wrap: wrap;
+  }
+
+  .publication__cost-wrapper {
+    max-width: 41%;
+  }
+
+  .checkbox-wrapper {
+    margin-bottom: 20px;
+    max-height: 155px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .publication__left {
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .publication__right {
+    margin-top: 46px;
+  }
+
+  .publication__img {
+    margin-bottom: 17px;
+  }
+
+
+  /* Projects */
+
+  .img-wrapper {
+    width: 264px;
+    height: 106px;
+  }
+
+  .swiper-projects {
+    max-width:  562px;
+  }
+
+  .projects__text {
+    margin-bottom: 14px;
+    max-width: 97%;
+    line-height: 32px;
+  }
+
+  .projects__partners {
+    margin-bottom: 29px;
+  }
+
+  /* Contacts */
+
+  .contacts__map {
+    width: 43.8%;
+  }
+
+  .contacts__background {
+    width: 58%;
+    left: -17px;
+  }
+
+  .contacts__form-title {
+    font-size: 24px;;
+  }
+
+  .contacts__input {
+    padding: 11px 11px 11px 20px;
+    width: 84%;
+    margin-left: 4px;
+  }
+
+  .contacts__btn {
+    margin-left: 4px;
+    max-width: 157px;
+  }
+
+  .contacts__left-column {
+    padding-top: 118px;
+    width: 59.2%;
+  }
+
+
+  /* Footer */
+
+  .footer {
+    padding: 38px 4px;
+  }
+
+
+
+
+
+
+
+
+}

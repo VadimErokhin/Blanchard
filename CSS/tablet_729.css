@@ -1,0 +1,40 @@
+@media(max-width:740px) {
+    
+    /* Hero */
+
+    .hero__info-title {
+        font-size: 60px;
+    }
+
+    /* Catalog */
+
+    .catalog__header {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .catalog__list {
+        padding-left: 0;
+    }
+
+    .publication__cost-wrapper {
+        max-width: 60%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
