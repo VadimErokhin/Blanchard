@@ -37,7 +37,7 @@
   }
 
   .header__loupe {
-    background-image: url(/img/header_loupe_320.png);
+    background-image: url(../img/header_loupe_320.png);
     width: 15px;
     height: 16px;
     margin-right: 7px;
