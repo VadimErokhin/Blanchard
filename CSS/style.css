@@ -572,7 +572,7 @@ path {
   width: 28px;
   height: 32px;
   background: transparent;
-  background-image: url(/img/loupe.svg);
+  background-image: url(../img/loupe.svg);
   background-repeat: no-repeat;
   background-size: 22px;
   background-position: left;
