@@ -1,5 +1,1 @@
-<svg width="25" height="18" viewBox="0 0 25 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="25" height="2" transform="matrix(-1 0 0 1 25 0)" fill="white"/>
-<path d="M16 8H9.53674e-07V10H16V8Z" fill="white"/>
-<path d="M10 16H0V18H10V16Z" fill="white"/>
-</svg>
+<svg fill="none" height="18" viewBox="0 0 25 18" width="25" xmlns="http://www.w3.org/2000/svg"><g fill="#fff"><path d="m0 0h25v2h-25z" transform="matrix(-1 0 0 1 25 0)"/><path d="m16 8h-15.99999905v2h15.99999905z"/><path d="m10 16h-10v2h10z"/></g></svg>
